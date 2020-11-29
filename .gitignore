@@ -1,0 +1,6 @@
+aternos.org
+.vscode
+.idea
+*/__pycache__/
+.env
+
