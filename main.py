@@ -1,10 +1,7 @@
-import requests
-import hashlib
-from pprint import pprint
-import dotenv
 import os
-import random_user_agent
-from random_user_agent import user_agent
+
+import dotenv
+
 from aternos_api.account import Account
 
 dotenv.load_dotenv()
